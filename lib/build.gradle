@@ -20,5 +20,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.RoleWong:ffmpeg-android-java:v0.4'
+    compile 'com.github.RoleWong:ffmpeg-android-java:v0.4@aar'
+    // implementation 'com.github.RoleWong:ffmpeg-android-java:v0.4'
 }
